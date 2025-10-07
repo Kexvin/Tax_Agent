@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="92e171ec-fe0f-42cd-9f9d-4ca40d34ae4d" name="Changes" comment="" />
+    <list default="true" id="92e171ec-fe0f-42cd-9f9d-4ca40d34ae4d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/core/artifact.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Tools/core/artifact.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,6 +59,8 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\kdox1\PycharmProjects\Tax_Agent\Data" />
+      <recent name="C:\Users\kdox1\PycharmProjects\Tax_Agent\Knowledge" />
       <recent name="C:\Users\kdox1\PycharmProjects\Tax_Agent" />
       <recent name="C:\Users\kdox1\PycharmProjects\Tax_Agent\Agents" />
     </key>
@@ -76,7 +81,7 @@
       <option name="presentableId" value="Default" />
       <updated>1759864430297</updated>
       <workItem from="1759864431334" duration="39000" />
-      <workItem from="1759864478850" duration="653000" />
+      <workItem from="1759864478850" duration="1350000" />
     </task>
     <servers />
   </component>
